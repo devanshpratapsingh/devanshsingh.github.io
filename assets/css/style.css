@@ -21,7 +21,7 @@ body::before {
   background-image: url('background/bg7.jpg');
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   left: 0;
   right: 0;
   top: 0;
